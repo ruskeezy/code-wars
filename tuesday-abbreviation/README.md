@@ -1,0 +1,2 @@
+- The problem domain of this kata is to abbreviate two names down to their initials. For example, Christian Miller should become C.M
+- Also, it needs to take lower cased names and make them uppercase. For example, jay adams should become J.A
