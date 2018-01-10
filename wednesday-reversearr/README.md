@@ -1,0 +1,1 @@
+- The problem domain of this kata is to reverse the order of the arrays, in order to "fix" the order of the animal. No one wants a head where their feet are!
